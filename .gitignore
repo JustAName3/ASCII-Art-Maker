@@ -1,0 +1,7 @@
+.venv
+.idea
+.vscode
+src/__pycache__
+src/test.py
+src/image.png
+TODO.txt
